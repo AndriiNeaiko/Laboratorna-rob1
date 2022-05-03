@@ -1,0 +1,45 @@
+C:\Users\andry\source\repos\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.exe
+C:\Users\andry\source\repos\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.deps.json
+C:\Users\andry\source\repos\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.runtimeconfig.json
+C:\Users\andry\source\repos\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.dll
+C:\Users\andry\source\repos\Lab 1\Lab 1\bin\Debug\net6.0\Lab 1.pdb
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.AssemblyReference.cache
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfoInputs.cache
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfo.cs
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.dll
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\refint\Lab 1.dll
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.pdb
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\Lab 1.genruntimeconfig.cache
+C:\Users\andry\source\repos\Lab 1\Lab 1\obj\Debug\net6.0\ref\Lab 1.dll
+C:\Users\Alxich\Desktop\New folder\Lab 1\bin\Debug\net6.0\Lab 1.exe
+C:\Users\Alxich\Desktop\New folder\Lab 1\bin\Debug\net6.0\Lab 1.deps.json
+C:\Users\Alxich\Desktop\New folder\Lab 1\bin\Debug\net6.0\Lab 1.runtimeconfig.json
+C:\Users\Alxich\Desktop\New folder\Lab 1\bin\Debug\net6.0\Lab 1.dll
+C:\Users\Alxich\Desktop\New folder\Lab 1\bin\Debug\net6.0\ref\Lab 1.dll
+C:\Users\Alxich\Desktop\New folder\Lab 1\bin\Debug\net6.0\Lab 1.pdb
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.csproj.AssemblyReference.cache
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfoInputs.cache
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfo.cs
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.dll
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\ref\Lab 1.dll
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.pdb
+C:\Users\Alxich\Desktop\New folder\Lab 1\obj\Debug\net6.0\Lab 1.genruntimeconfig.cache
+C:\Лаб1\Lab 1\bin\Debug\net6.0\Lab 1.exe
+C:\Лаб1\Lab 1\bin\Debug\net6.0\Lab 1.deps.json
+C:\Лаб1\Lab 1\bin\Debug\net6.0\Lab 1.runtimeconfig.json
+C:\Лаб1\Lab 1\bin\Debug\net6.0\Lab 1.dll
+C:\Лаб1\Lab 1\bin\Debug\net6.0\Lab 1.pdb
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.AssemblyReference.cache
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfoInputs.cache
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.AssemblyInfo.cs
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.csproj.CoreCompileInputs.cache
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.dll
+C:\Лаб1\Lab 1\obj\Debug\net6.0\refint\Lab 1.dll
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.pdb
+C:\Лаб1\Lab 1\obj\Debug\net6.0\Lab 1.genruntimeconfig.cache
+C:\Лаб1\Lab 1\obj\Debug\net6.0\ref\Lab 1.dll
